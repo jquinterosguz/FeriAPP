@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # feriapp-1
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# FeriAPP
+>>>>>>> 6ace4b15713191202c3f3bd6b8c7806708c255eb
